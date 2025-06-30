@@ -12,3 +12,4 @@ build/
 .flutter-plugins-dependencies
 pubspec.lock
 Podfile.lock
+ios/Runner.xcworkspace/xcuserdata
